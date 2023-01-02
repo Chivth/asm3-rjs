@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asm3-rjs/static/css/main.9aea42f5.css",
+    "main.js": "/asm3-rjs/static/js/main.fb4814d0.js",
+    "static/js/787.13f81209.chunk.js": "/asm3-rjs/static/js/787.13f81209.chunk.js",
+    "index.html": "/asm3-rjs/index.html",
+    "main.9aea42f5.css.map": "/asm3-rjs/static/css/main.9aea42f5.css.map",
+    "main.fb4814d0.js.map": "/asm3-rjs/static/js/main.fb4814d0.js.map",
+    "787.13f81209.chunk.js.map": "/asm3-rjs/static/js/787.13f81209.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aea42f5.css",
+    "static/js/main.fb4814d0.js"
+  ]
+}
